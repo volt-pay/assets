@@ -1,0 +1,17 @@
+{
+  "name": "VoltPay",
+  "symbol": "VLT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "VoltPay (VLT) is a decentralized payment token built on Binance Smart Chain and Ethereum for fast, low-cost global transactions.",
+  "website": "https://voltpay.org",
+  "explorer": "https://bscscan.com/token/0x73Bb9eC961AfC372957D4e3Fcaace918f95BBC73",
+  "status": "active",
+  "id": "0x73Bb9eC961AfC372957D4e3Fcaace918f95BBC73",
+  "whitepaper": "https://raw.githubusercontent.com/volt-pay/assets/main/blockchains/smartchain/assets/0x73Bb9eC961AfC372957D4e3Fcaace918f95BBC73/whitepaper.pdf",
+  "links": [
+    { "name": "Website", "url": "https://voltpay.org" },
+    { "name": "Twitter", "url": "https://twitter.com/voltpay" },
+    { "name": "Telegram", "url": "https://t.me/voltpay" }
+  ]
+}
